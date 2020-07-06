@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+  <crf_id>7DABAE2E-0FDC-42CE-B8D3-0158AA4C40E1</crf_id>
+  <optionLists>
+    <og_1582D901-951A-4DA9-9E89-64B657E22BB9>
+      <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+      <option_group_name>Patient's status Options</option_group_name>
+      <option_group_description/>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_2EE73420-6BE5-43B3-999B-13E6E1B4AB04>
+          <option_id>2EE73420-6BE5-43B3-999B-13E6E1B4AB04</option_id>
+          <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+          <option_name>Alive</option_name>
+          <option_value>Alive</option_value>
+          <option_group_order>0</option_group_order>
+        </op_2EE73420-6BE5-43B3-999B-13E6E1B4AB04>
+        <op_E06AA6CB-17F1-4BE4-AA64-BE285022312A>
+          <option_id>E06AA6CB-17F1-4BE4-AA64-BE285022312A</option_id>
+          <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+          <option_name>Dead</option_name>
+          <option_value>Dead</option_value>
+          <option_group_order>1</option_group_order>
+        </op_E06AA6CB-17F1-4BE4-AA64-BE285022312A>
+        <op_176D545C-AFF7-4854-BB08-97E96D57AEB4>
+          <option_id>176D545C-AFF7-4854-BB08-97E96D57AEB4</option_id>
+          <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+          <option_name>Opted-out</option_name>
+          <option_value>Opted-out</option_value>
+          <option_group_order>2</option_group_order>
+        </op_176D545C-AFF7-4854-BB08-97E96D57AEB4>
+      </options>
+    </og_1582D901-951A-4DA9-9E89-64B657E22BB9>
+    <og_1813FC0C-AC5B-4D97-8198-ADD1F95BEED1>
+      <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+      <option_group_name>Sex Options</option_group_name>
+      <option_group_description/>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_8CBB1A26-8925-4BAC-998B-FA1DB729DECE>
+          <option_id>8CBB1A26-8925-4BAC-998B-FA1DB729DECE</option_id>
+          <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+          <option_name>Gender unknown</option_name>
+          <option_value>Gender unknown</option_value>
+          <option_group_order>0</option_group_order>
+        </op_8CBB1A26-8925-4BAC-998B-FA1DB729DECE>
+        <op_F8776FD8-2F60-4394-95F9-EF2904447546>
+          <option_id>F8776FD8-2F60-4394-95F9-EF2904447546</option_id>
+          <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+          <option_name>Gender unspecified</option_name>
+          <option_value>Gender unspecified</option_value>
+          <option_group_order>1</option_group_order>
+        </op_F8776FD8-2F60-4394-95F9-EF2904447546>
+        <op_0D9F20E9-A6DF-42AC-B698-6CD57D07D101>
+          <option_id>0D9F20E9-A6DF-42AC-B698-6CD57D07D101</option_id>
+          <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+          <option_name>Masculine gender</option_name>
+          <option_value>Masculine gender</option_value>
+          <option_group_order>2</option_group_order>
+        </op_0D9F20E9-A6DF-42AC-B698-6CD57D07D101>
+        <op_11B59943-4E07-48EA-BB0F-ADF620D82FE9>
+          <option_id>11B59943-4E07-48EA-BB0F-ADF620D82FE9</option_id>
+          <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+          <option_name>Feminine gender</option_name>
+          <option_value>Feminine gender</option_value>
+          <option_group_order>3</option_group_order>
+        </op_11B59943-4E07-48EA-BB0F-ADF620D82FE9>
+      </options>
+    </og_1813FC0C-AC5B-4D97-8198-ADD1F95BEED1>
+  </optionLists>
+  <version>3</version>
+  <metadata>1</metadata>
+  <date_created>2020-06-23 10:46:30</date_created>
+  <created_by>The Registry in a Box iCRF Generator</created_by>
+  <lookupTable/>
+  <study guid="study" name="Study">
+    <phases>
+      <ph_9F471B63-6159-4BC5-8030-2028324A4444 duration="0" guid="9F471B63-6159-4BC5-8030-2028324A4444" name="GeneratedPhase" order="1" rejected="0" stepCount="1">
+        <steps>
+          <st_F2C6532C-CC60-4B3F-8C50-0F0319D0803A guid="F2C6532C-CC60-4B3F-8C50-0F0319D0803A" name="GeneratedStep" rejected="0" step_desc="GeneratedStep" step_id="F2C6532C-CC60-4B3F-8C50-0F0319D0803A" step_name="GeneratedStep" step_number="1" step_status="active" study_phase_id="9F471B63-6159-4BC5-8030-2028324A4444">
+            <fields>
+              <fi_F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC>
+                <parent_id>F2C6532C-CC60-4B3F-8C50-0F0319D0803A</parent_id>
+                <field_id>F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Patient's status</field_label>
+                <field_is_alias>0</field_is_alias>
+                <field_variable_name>Patient's status</field_variable_name>
+                <field_type>dropdown</field_type>
+                <field_type_description>Dropdown</field_type_description>
+                <field_option_group>1582D901-951A-4DA9-9E89-64B657E22BB9</field_option_group>
+                <field_custom_type/>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min/>
+                <field_max/>
+                <field_min_label/>
+                <field_max_label/>
+                <field_length/>
+                <field_inclusion/>
+                <field_units/>
+                <field_info/>
+                <field_summary_template/>
+                <updated_by>F578677A-5CA4-9222-1C4D-C295CF4C4135</updated_by>
+                <updated_on>2020-06-23 10:46:30</updated_on>
+                <field_visibility/>
+                <field_value/>
+                <option_groups/>
+                <show_validation/>
+                <show_validation_type/>
+                <field_image/>
+                <field_slider_step/>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <field_hidden>0</field_hidden>
+                <encryption_enabled>false</encryption_enabled>
+                <field_label_parsed>Patient's status</field_label_parsed>
+                <report_id/>
+                <additional_config/>
+                <option_group>
+                  <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+                  <option_group_name>Patient's status Options</option_group_name>
+                  <option_group_description/>
+                  <option_group_layout>0</option_group_layout>
+                  <options>
+                    <option_id>2EE73420-6BE5-43B3-999B-13E6E1B4AB04</option_id>
+                    <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+                    <option_name>Alive</option_name>
+                    <option_value>Alive</option_value>
+                    <option_group_order>0</option_group_order>
+                  </options>
+                  <options>
+                    <option_id>E06AA6CB-17F1-4BE4-AA64-BE285022312A</option_id>
+                    <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+                    <option_name>Dead</option_name>
+                    <option_value>Dead</option_value>
+                    <option_group_order>1</option_group_order>
+                  </options>
+                  <options>
+                    <option_id>176D545C-AFF7-4854-BB08-97E96D57AEB4</option_id>
+                    <option_group_id>1582D901-951A-4DA9-9E89-64B657E22BB9</option_group_id>
+                    <option_name>Opted-out</option_name>
+                    <option_value>Opted-out</option_value>
+                    <option_group_order>2</option_group_order>
+                  </options>
+                </option_group>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <validation/>
+                <metadata>
+                  <m_793DBF1C-4F99-495B-92EC-7BB52490EE1A>
+                    <metadata_id>793DBF1C-4F99-495B-92EC-7BB52490EE1A</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>1</metadata_type>
+                    <metadata_description>Alive</metadata_description>
+                    <metadata_value>0001421</metadata_value>
+                  </m_793DBF1C-4F99-495B-92EC-7BB52490EE1A>
+                  <m_9424365B-5A5B-4752-B272-5AC8238F1B71>
+                    <metadata_id>9424365B-5A5B-4752-B272-5AC8238F1B71</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>1</metadata_type>
+                    <metadata_description>Dead</metadata_description>
+                    <metadata_value>0001422</metadata_value>
+                  </m_9424365B-5A5B-4752-B272-5AC8238F1B71>
+                  <m_81924E4F-F945-49C2-9DFA-CFE1DCDFE0BC>
+                    <metadata_id>81924E4F-F945-49C2-9DFA-CFE1DCDFE0BC</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>2</metadata_type>
+                    <metadata_description>Opted-out</metadata_description>
+                    <metadata_value>C4291647</metadata_value>
+                  </m_81924E4F-F945-49C2-9DFA-CFE1DCDFE0BC>
+                  <m_E63DBB53-8A42-468B-B951-F1D6CECB15CD>
+                    <metadata_id>E63DBB53-8A42-468B-B951-F1D6CECB15CD</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>3</metadata_type>
+                    <metadata_description>Patient's status</metadata_description>
+                    <metadata_value>C25688</metadata_value>
+                  </m_E63DBB53-8A42-468B-B951-F1D6CECB15CD>
+                </metadata>
+              </fi_F045EB1B-C0BF-47B1-9C36-AEA849D2B8CC>
+              <fi_E912B1C3-ABDC-43BC-ADD4-2CAD35E49C92>
+                <parent_id>F2C6532C-CC60-4B3F-8C50-0F0319D0803A</parent_id>
+                <field_id>E912B1C3-ABDC-43BC-ADD4-2CAD35E49C92</field_id>
+                <field_number>2</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Date of birth</field_label>
+                <field_is_alias>0</field_is_alias>
+                <field_variable_name>Date of birth</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group/>
+                <field_custom_type/>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min/>
+                <field_max/>
+                <field_min_label/>
+                <field_max_label/>
+                <field_length/>
+                <field_inclusion/>
+                <field_units/>
+                <field_info/>
+                <field_summary_template/>
+                <updated_by>F578677A-5CA4-9222-1C4D-C295CF4C4135</updated_by>
+                <updated_on>2020-06-23 10:46:30</updated_on>
+                <field_visibility/>
+                <field_value/>
+                <option_groups/>
+                <show_validation/>
+                <show_validation_type/>
+                <field_image/>
+                <field_slider_step/>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <field_hidden>0</field_hidden>
+                <encryption_enabled>false</encryption_enabled>
+                <field_label_parsed>Date of birth</field_label_parsed>
+                <report_id/>
+                <additional_config/>
+                <option_group/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <validation/>
+                <metadata>
+                  <m_1ADF650C-62C2-48AB-B4B2-CAFF4DCA70DF>
+                    <metadata_id>1ADF650C-62C2-48AB-B4B2-CAFF4DCA70DF</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>E912B1C3-ABDC-43BC-ADD4-2CAD35E49C92</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>3</metadata_type>
+                    <metadata_description>Date of birth</metadata_description>
+                    <metadata_value>C68615</metadata_value>
+                  </m_1ADF650C-62C2-48AB-B4B2-CAFF4DCA70DF>
+                </metadata>
+              </fi_E912B1C3-ABDC-43BC-ADD4-2CAD35E49C92>
+              <fi_57550CDD-2CB3-4759-AD68-C6AB2D0C9012>
+                <parent_id>F2C6532C-CC60-4B3F-8C50-0F0319D0803A</parent_id>
+                <field_id>57550CDD-2CB3-4759-AD68-C6AB2D0C9012</field_id>
+                <field_number>3</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Sex</field_label>
+                <field_is_alias>0</field_is_alias>
+                <field_variable_name>Sex</field_variable_name>
+                <field_type>checkbox</field_type>
+                <field_type_description>Checkbox</field_type_description>
+                <field_option_group>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</field_option_group>
+                <field_custom_type/>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min/>
+                <field_max/>
+                <field_min_label/>
+                <field_max_label/>
+                <field_length/>
+                <field_inclusion/>
+                <field_units/>
+                <field_info/>
+                <field_summary_template/>
+                <updated_by>F578677A-5CA4-9222-1C4D-C295CF4C4135</updated_by>
+                <updated_on>2020-06-23 10:46:30</updated_on>
+                <field_visibility/>
+                <field_value/>
+                <option_groups/>
+                <show_validation/>
+                <show_validation_type/>
+                <field_image/>
+                <field_slider_step/>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <field_hidden>0</field_hidden>
+                <encryption_enabled>false</encryption_enabled>
+                <field_label_parsed>Sex</field_label_parsed>
+                <report_id/>
+                <additional_config/>
+                <option_group>
+                  <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+                  <option_group_name>Sex Options</option_group_name>
+                  <option_group_description/>
+                  <option_group_layout>0</option_group_layout>
+                  <options>
+                    <option_id>8CBB1A26-8925-4BAC-998B-FA1DB729DECE</option_id>
+                    <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+                    <option_name>Gender unknown</option_name>
+                    <option_value>Gender unknown</option_value>
+                    <option_group_order>0</option_group_order>
+                  </options>
+                  <options>
+                    <option_id>F8776FD8-2F60-4394-95F9-EF2904447546</option_id>
+                    <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+                    <option_name>Gender unspecified</option_name>
+                    <option_value>Gender unspecified</option_value>
+                    <option_group_order>1</option_group_order>
+                  </options>
+                  <options>
+                    <option_id>0D9F20E9-A6DF-42AC-B698-6CD57D07D101</option_id>
+                    <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+                    <option_name>Masculine gender</option_name>
+                    <option_value>Masculine gender</option_value>
+                    <option_group_order>2</option_group_order>
+                  </options>
+                  <options>
+                    <option_id>11B59943-4E07-48EA-BB0F-ADF620D82FE9</option_id>
+                    <option_group_id>1813FC0C-AC5B-4D97-8198-ADD1F95BEED1</option_group_id>
+                    <option_name>Feminine gender</option_name>
+                    <option_value>Feminine gender</option_value>
+                    <option_group_order>3</option_group_order>
+                  </options>
+                </option_group>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <validation/>
+                <metadata>
+                  <m_C6D942E5-1AD2-41C4-9D1C-B136EC446C8B>
+                    <metadata_id>C6D942E5-1AD2-41C4-9D1C-B136EC446C8B</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>57550CDD-2CB3-4759-AD68-C6AB2D0C9012</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>4</metadata_type>
+                    <metadata_description>Gender unknown</metadata_description>
+                    <metadata_value>394743007</metadata_value>
+                  </m_C6D942E5-1AD2-41C4-9D1C-B136EC446C8B>
+                  <m_0DC97FB5-EC2D-4A68-ACA7-C3F2A61C544C>
+                    <metadata_id>0DC97FB5-EC2D-4A68-ACA7-C3F2A61C544C</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>57550CDD-2CB3-4759-AD68-C6AB2D0C9012</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>4</metadata_type>
+                    <metadata_description>Gender unspecified</metadata_description>
+                    <metadata_value>394744001</metadata_value>
+                  </m_0DC97FB5-EC2D-4A68-ACA7-C3F2A61C544C>
+                  <m_2029DD36-282C-4FDB-9F7B-03B0153E7050>
+                    <metadata_id>2029DD36-282C-4FDB-9F7B-03B0153E7050</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>57550CDD-2CB3-4759-AD68-C6AB2D0C9012</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>4</metadata_type>
+                    <metadata_description>Masculine gender</metadata_description>
+                    <metadata_value>703117000</metadata_value>
+                  </m_2029DD36-282C-4FDB-9F7B-03B0153E7050>
+                  <m_8397DEE8-0CEF-4BEF-859F-ED1C7A2559D9>
+                    <metadata_id>8397DEE8-0CEF-4BEF-859F-ED1C7A2559D9</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>57550CDD-2CB3-4759-AD68-C6AB2D0C9012</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>4</metadata_type>
+                    <metadata_description>Feminine gender</metadata_description>
+                    <metadata_value>703118005</metadata_value>
+                  </m_8397DEE8-0CEF-4BEF-859F-ED1C7A2559D9>
+                  <m_D9D001FC-B562-42AB-B77D-AE5C2CC482BD>
+                    <metadata_id>D9D001FC-B562-42AB-B77D-AE5C2CC482BD</metadata_id>
+                    <metadata_parent_id/>
+                    <element_id>57550CDD-2CB3-4759-AD68-C6AB2D0C9012</element_id>
+                    <element_type>1</element_type>
+                    <metadata_type>3</metadata_type>
+                    <metadata_description>Sex</metadata_description>
+                    <metadata_value>C28421</metadata_value>
+                  </m_D9D001FC-B562-42AB-B77D-AE5C2CC482BD>
+                </metadata>
+              </fi_57550CDD-2CB3-4759-AD68-C6AB2D0C9012>
+            </fields>
+          </st_F2C6532C-CC60-4B3F-8C50-0F0319D0803A>
+        </steps>
+      </ph_9F471B63-6159-4BC5-8030-2028324A4444>
+    </phases>
+  </study>
+  <export_type>step</export_type>
+  <metadataTypes>
+    <mt_4>
+      <type_id>4</type_id>
+      <name>SNOMED CT</name>
+      <description>SNOMED CT</description>
+    </mt_4>
+    <mt_2>
+      <type_id>2</type_id>
+      <name>HL7</name>
+      <description>HL7</description>
+    </mt_2>
+    <mt_3>
+      <type_id>3</type_id>
+      <name>NCIT</name>
+      <description>NCIT</description>
+    </mt_3>
+    <mt_1>
+      <type_id>1</type_id>
+      <name>PATO</name>
+      <description>PATO</description>
+    </mt_1>
+  </metadataTypes>
+</xml>

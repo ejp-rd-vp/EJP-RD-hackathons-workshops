@@ -1,0 +1,8 @@
+# docker-compose.yml
+
+version: '3'
+services:
+  rmlrunner:
+    build: ./rmlRunner
+    volumes:
+      - ./data:/data
