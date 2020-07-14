@@ -36,6 +36,6 @@ This group created an example CRF in the RedCap system. This group adapted the g
 
 
 <p align="center"> 
-     <img src="https://github.com/ejp-rd-vp/EJP-RD-hackathons-workshops/blob/master/EJPRD_Workshop_2020-06_Hackathon_Implementation_CDE_semantic_model_for_ERNs/images/implementing-cde.jpg">
+     <img src="https://github.com/ejp-rd-vp/EJP-RD-hackathons-workshops/blob/master/EJPRD_Workshop_2020-06_Hackathon_Implementation_CDE_semantic_model_for_ERNs/images/rdf-creation-pipeline-for-redcap.jpg">
 </p> 
 <p align="center"> Fig. 3 - RDF creation workflow for REDCap</p>
